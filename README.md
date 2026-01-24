@@ -1,4 +1,12 @@
 ![spotify clone](github-poster.png)
+
+<h2 align="center">Hi 👋, I'm Pruthviraj</h2>
+
+<p align="center">
+  🚀 Full-Stack Developer passionate about building modern web applications <br/>
+  📚 Continuously learning new technologies and improving my development skills
+</p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pruthviraj.c.gaikwad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pruthviraj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Gaikwadpruthviraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaikwadpruthviraj01@gmail.com) 
 
