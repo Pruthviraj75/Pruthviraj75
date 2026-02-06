@@ -17,13 +17,13 @@
 
 # 🚀 Portfolio
 
-<p align="center">
-
+<p align="">
 <a href="https://pruthviii.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/✨%20Live%20Portfolio-Visit%20Now-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A66C2" />
 </a>
 <br/><br/>
 💼 Explore my projects, skills, and real-world applications  
+  <br/>
 👉 **https://pruthviii.onrender.com/**
 </p>
 
